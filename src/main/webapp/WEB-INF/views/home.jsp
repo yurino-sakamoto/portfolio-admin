@@ -6,9 +6,16 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+	<form method="get" action="<%=request.getContextPath()%>/skill-upload">
+		<div style="padding: 5px;">
+			<button type="submit">upload</button>
+		</div>
+	</form>
+
 </body>
 </html>
