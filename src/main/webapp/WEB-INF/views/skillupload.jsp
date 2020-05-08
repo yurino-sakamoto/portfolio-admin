@@ -9,9 +9,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Ohayo!!</title>
+<title>Update</title>
 </head>
 <body>
-	<div style="padding: 10px;">今日はいい天気！</div>
+	<div style="padding: 10px;">Update success</div>
 </body>
 </html>
